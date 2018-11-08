@@ -23,6 +23,7 @@ int Student::no_instances = 0;
 int main() {
 	Student a, b, c, d;
 	cout << Student::no_instances << '\n';
+
 	system("pause");
 	return 0;
 }
